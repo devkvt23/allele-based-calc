@@ -1,7 +1,3 @@
-#Allele-frequency based calculator for 2-3 way genetic admixture calculation 
-#23andme and AncestryDna parsed files are all in -- > 
-
-
 
 1. Prepare Your Data
 23andMe File: Ensure you have a 23andMe file (e.g., example_23andme.txt).
